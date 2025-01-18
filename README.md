@@ -2,7 +2,7 @@
 
 **`Auxiliar de Desenvolvimento de Sistemas`**
 
-Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 17 anos e sou natural do Rio Grande do Sul. Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.
+Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 18 anos e sou natural do Rio Grande do Sul. Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.
 
 Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnologia e resolução de problemas, sempre buscando novos desafios e oportunidades para crescer pessoal e profissionalmente.
 
