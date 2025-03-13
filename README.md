@@ -1,6 +1,6 @@
 # 👽 Rafael Medeiros
 
-**`Auxiliar de Desenvolvimento de Sistemas`**
+**`Auxiliar de Desenvolvimento de Sistemas`** | **`Auxiliar de Engenharia de Sistemas`** | **`Auxiliar de Web Developer`**
 
 Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 18 anos e sou natural do Rio Grande do Sul. Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.
 
@@ -26,7 +26,10 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
 
 ### 🛠️ Trabalhos
 - **Estagiário de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *4 meses*  
+  Dakota Calçados | *5 meses*
+
+  - **Auxiliar de Desenvolvimento de Sistemas**  
+  Dakota Calçados | *1 mês*  
 
 ### 📚 Cursos e Projetos
 - **NBPS - Intercâmbio:**  
@@ -36,7 +39,8 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
   - CyberSecurity Club (*semi-finalista estadual na Flórida*)
     
 - **Udemy:**  
-  - *The Complete C Programming Bootcamp*
+  - *Em progresso: Curso MySQL e SQL*
+  - *Em progresso: BootCamp Banco Bradesco - Python*
 
 ---
 
