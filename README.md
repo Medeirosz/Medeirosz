@@ -29,7 +29,7 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
 
 ### 🛠️ Trabalhos
 - **Estagiário de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *5 meses*
+  Dakota Calçados | *7 meses*
 
 - **Auxiliar de Desenvolvimento de Sistemas**  
   Dakota Calçados | *1 mês*  
