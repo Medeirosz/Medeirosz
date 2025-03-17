@@ -42,8 +42,8 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
   - CyberSecurity Club (*semi-finalista estadual na Flórida*)
     
 - **Cursando:**  
-  - *Em progresso: Cs50 Harvard - EAD *
-  - *Em progresso: Curso MySQL e SQL - EAD *
+  - *Em progresso: Cs50 Harvard - EAD*
+  - *Em progresso: Curso MySQL e SQL - EAD*
   - *Em progresso: BootCamp Banco Bradesco Python - EAD*
 
 ---
