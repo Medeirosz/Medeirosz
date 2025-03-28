@@ -32,7 +32,7 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
   Dakota Calçados | *7 meses*
 
 - **Auxiliar de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *1 mês*  
+  Dakota Calçados | *2 mês*  
 
 ### 📚 Cursos e Projetos
 - **NBPS - Intercâmbio:**  
