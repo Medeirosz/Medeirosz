@@ -32,7 +32,7 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
   Dakota Calçados | *7 meses*
 
 - **Auxiliar de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *2 mês*  
+  Dakota Calçados | *2 meses*  
 
 ### 📚 Cursos e Projetos
 - **NBPS - Intercâmbio:**  
@@ -45,6 +45,6 @@ Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnol
   - *Em progresso: Cs50 Harvard - EAD*
   - *Em progresso: Curso MySQL e SQL - EAD*
   - *Em progresso: BootCamp Banco Bradesco Python - EAD*
-
+  - *Finalizado: Data Science Universidade Feevale - EAD*
 ---
 
