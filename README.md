@@ -1,50 +1,80 @@
-# 👽 Rafael Medeiros
-
-**`Auxiliar de Desenvolvimento de Sistemas`** | **`Auxiliar de Engenharia de Sistemas`** | **`Auxiliar de Web Developer`**
-
-Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 18 anos e sou natural do Rio Grande do Sul. Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.
-
-Atualmente, curso Ciência da Computação na Feevale. Sou apaixonado por tecnologia e resolução de problemas, sempre buscando novos desafios e oportunidades para crescer pessoal e profissionalmente.
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=👽%20Rafael%20Medeiros&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 👤 Sobre mim  
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 18 anos e sou natural do Rio Grande do Sul.  
+Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.  
 
-<br clear="left"/>
+Atualmente, curso **Ciência da Computação na Feevale**.  
+💡 Apaixonado por **tecnologia, backend e resolução de problemas**, sempre buscando desafios e oportunidades para crescer pessoal e profissionalmente.  
 
 ---
 
-## 📊 Experiência
+## 🤖 Linguagens e Tecnologias  
 
-### 🛠️ Trabalhos
-- **Estagiário de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *7 meses*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,ts,php,python,java,mysql,git,ruby,rails,docker,linux,vscode,figma" />
+</p>
 
-- **Auxiliar de Desenvolvimento de Sistemas**  
-  Dakota Calçados | *2 meses*  
+---
 
-### 📚 Cursos e Projetos
-- **NBPS - Intercâmbio:**  
+## 📊 Experiência  
+
+### 💼 Trabalhos
+- **Estagiário de Desenvolvimento de Sistemas** → Dakota Calçados (*7 meses*)  
+- **Auxiliar de Desenvolvimento de Sistemas** → Dakota Calçados (*2 meses*)  
+- **Desenvolvedor / Suporte** → New Byte (*Atual*)  
+
+---
+
+## 🎓 Formação e Cursos  
+
+- **NBPS - Intercâmbio (EUA):**  
   - Introduction to Computer Science  
   - Robotic's Club  
   - Developer's Club  
-  - CyberSecurity Club (*semi-finalista estadual na Flórida*)
-    
+  - CyberSecurity Club (*semi-finalista estadual na Flórida*)  
+
 - **Cursando:**  
-  - *Em progresso: Cs50 Harvard - EAD*
-  - *Em progresso: Curso MySQL e SQL - EAD*
-  - *Em progresso: BootCamp Banco Bradesco Python - EAD*
-  - *Finalizado: Data Science Universidade Feevale - EAD*
+  - Cs50 Harvard - EAD  
+  - Cs50 Harvard Cybersecurity - EAD  
+  - Exercism.org Ruby - EAD  
+
 ---
 
+## 🏆 Certificados  
+
+- **Harvard CS50 – Introduction to Computer Science** (*em andamento*)  
+- **Harvard CS50 – Cybersecurity** (*em andamento*)  
+- **Data Science – Feevale** (*concluído*)  
+- **CyberSecurity Club – semifinalista estadual na Flórida**  
+
+---
+
+## 🎨 Skills Overview  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Medeirosz&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Medeirosz&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 📫 Contato  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-medeiros-28a411219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/r_medeirossz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- FOOTER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
+</p>
