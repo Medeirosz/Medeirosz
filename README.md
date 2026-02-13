@@ -27,7 +27,7 @@ Apaixonado por **tecnologia, arquitetura de software, devOps e resolução de pr
 ### Trabalhos
 - **Estagiário de Desenvolvimento de Sistemas** → Dakota Calçados (*7 meses*)  
 - **Auxiliar de Desenvolvimento de Sistemas** → Dakota Calçados (*2 meses*)  
-- **Desenvolvedor / Suporte** → New Byte (*Atual*)  
+- **Desenvolvedor** → New Byte (*Atual*)  
 
 ---
 
