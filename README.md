@@ -17,7 +17,7 @@ Apaixonado por **tecnologia, arquitetura de software, devOps e resolução de pr
 ## Linguagens e Tecnologias:  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,ts,php,python,java,mysql,git,ruby,rails,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,git,docker,linux,vscode" />
 </p>
 
 ---
@@ -39,17 +39,10 @@ Apaixonado por **tecnologia, arquitetura de software, devOps e resolução de pr
   - Developer's Club  
   - CyberSecurity Club (*semi-finalista estadual na Flórida*)  
 
-- **Cursando:**  
-  - Cs50 Harvard - EAD  
-  - Cs50 Harvard Cybersecurity - EAD  
-  - Exercism.org Ruby - EAD  
-
 ---
 
 ## Certificados:  
 
-- **Harvard CS50 – Introduction to Computer Science** (*em andamento*)  
-- **Harvard CS50 – Cybersecurity** (*em andamento*)  
 - **Data Science – Feevale** (*concluído*)  
 - **CyberSecurity Club – semifinalista estadual na Flórida**  
 
