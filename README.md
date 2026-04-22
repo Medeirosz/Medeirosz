@@ -6,11 +6,32 @@
 
 ## Sobre mim:  
 
-Meu nome é [Rafael Medeiros](https://www.instagram.com/r_medeirossz/), tenho 19 anos e sou natural do Rio Grande do Sul.  
-Realizei o primeiro ano e parte do segundo ano do ensino médio no Colégio São José, em Caxias do Sul. Em seguida, participei de um intercâmbio de 7 meses em Coconut Creek, Flórida, e finalizei meus estudos no Colégio Técnico Bom Pastor, em Nova Petrópolis.  
+Olá, eu sou o Rafael, um estudante de Ciência da Computação. Sou apaixonado por desenvolver sistemas, resolução de problemas e aprender coisas novas. Estou sempre em busca de um aprendizado contínuo e crescimento profissional, explorando novas tecnologias e metodologias para aprimorar meus conhecimentos por meio de cursos online, leitura e networking. Atualmente estou trabalhando na maior startup de automação de aluguel por temporada da América Latina!
 
-Atualmente, curso **Ciência da Computação na Feevale**.  
-Apaixonado por **tecnologia, arquitetura de software, devOps e resolução de problemas**, sempre buscando desafios e oportunidades para crescer pessoal e profissionalmente.  
+Experiências de trabalho com JavaScript: 
+- Desenvolvimento fullstack de uma solução de centralização financeira da empresa (JavaScript, PostgreSQL, Edge Functions em Deno, Tailwind CSS 4 e Vite 6).
+- Desenvolvimento de automações de mensageria para hóspedes (JavaScript, n8n).
+- Desenvolvimento de chatbots de atendimento ao cliente (JavaScript, TypeBot).
+- Utilização de ferramentas de programação e context engineering (Claude Code)
+- Utilização diária da linguagem.
+- Utilização diária de API Testers (Postman).
+- Utilização diária de ferramentas de versionamento de código (Git e GitHub).
+
+Principais Skills: 
+- JavaScript
+- Java
+- Python
+- FastAPI
+- PostgreSQL
+- Git/Github
+- Linux
+- Docker
+- Inglês avançado (Intercâmbio 8 meses - EUA, Flórida)
+
+Skills Complementares: 
+- Fundamentos de Ciência da Computação.
+- Algoritmos e lógica de programação.
+- Boa comunicação e relacionamento com pessoas.  
 
 ---
 
