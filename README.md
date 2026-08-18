@@ -51,7 +51,7 @@ Skills Complementares:
 - **Estágiario** → New Byte (*3 meses*)
 - **Desenvolvedor Júnior** → New Byte (*11 meses*) 
 - **Engenhero de Software Júnior** → New Byte (*Atual*)
-- 
+  
 ---
 
 ## Formação e Cursos:  
