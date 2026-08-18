@@ -48,8 +48,10 @@ Skills Complementares:
 ### Trabalhos
 - **Estagiário de Desenvolvimento de Sistemas** → Dakota Calçados (*7 meses*)  
 - **Auxiliar de Desenvolvimento de Sistemas** → Dakota Calçados (*2 meses*)  
-- **Desenvolvedor** → New Byte (*Atual*)  
-
+- **Estágiario** → New Byte (*3 meses*)
+- **Desenvolvedor Júnior** → New Byte (*11 meses*) 
+- **Engenhero de Software Júnior** → New Byte (*Atual*)
+- 
 ---
 
 ## Formação e Cursos:  
